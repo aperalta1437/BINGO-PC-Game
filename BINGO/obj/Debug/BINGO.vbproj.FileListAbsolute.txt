@@ -1,0 +1,13 @@
+E:\Documents\MC3\CIS122\Final_Project\BINGO\bin\Debug\BINGO.exe.config
+E:\Documents\MC3\CIS122\Final_Project\BINGO\bin\Debug\BINGO.exe
+E:\Documents\MC3\CIS122\Final_Project\BINGO\bin\Debug\BINGO.pdb
+E:\Documents\MC3\CIS122\Final_Project\BINGO\bin\Debug\BINGO.xml
+E:\Documents\MC3\CIS122\Final_Project\BINGO\obj\Debug\BINGO.vbprojAssemblyReference.cache
+E:\Documents\MC3\CIS122\Final_Project\BINGO\obj\Debug\BINGO.MainForm.resources
+E:\Documents\MC3\CIS122\Final_Project\BINGO\obj\Debug\BINGO.Resources.resources
+E:\Documents\MC3\CIS122\Final_Project\BINGO\obj\Debug\BINGO.vbproj.GenerateResource.cache
+E:\Documents\MC3\CIS122\Final_Project\BINGO\obj\Debug\BINGO.exe
+E:\Documents\MC3\CIS122\Final_Project\BINGO\obj\Debug\BINGO.xml
+E:\Documents\MC3\CIS122\Final_Project\BINGO\obj\Debug\BINGO.pdb
+E:\Documents\MC3\CIS122\Final_Project\BINGO\obj\Debug\BINGO.GameSettings.resources
+E:\Documents\MC3\CIS122\Final_Project\BINGO\obj\Debug\BINGO.Board.resources
